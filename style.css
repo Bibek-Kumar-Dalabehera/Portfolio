@@ -157,6 +157,7 @@ body {
 .about-section {
   padding: 60px 20px;
   background: #f9f9f9;
+  scroll-margin-top: 80px;
 }
 
 .container {
